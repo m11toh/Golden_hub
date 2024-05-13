@@ -38,7 +38,7 @@ const Rooms = () => {
                 {data.map((room) => (
                     <div key={room.id} className="col-md-4 mb-4">
                         <div className="card">
-                            <Link to="/booking">
+                            <Link to="/Golden_hub/booking">
                                 <img src={room.image} className="card-img-top" alt="Room" />
                                 <div className="card-body">
                                     <h5 className="card-title">{room.Room_type}</h5>

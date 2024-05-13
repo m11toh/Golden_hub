@@ -8,7 +8,7 @@ function Home() {
 
 
   const handleGetStartedClick = () => {
-    navigate('/trial/navbar');
+    navigate('/Golden_hub/navbar');
   };
 
   return (

@@ -20,14 +20,14 @@ const Navbar = () => {
         <p style={{ color: 'goldenrod', fontSize: '20px' }}>Press Rooms to proceed</p>
         <ul style={{ listStyleType: 'none', margin: 0, padding: 0, display: 'flex' }}>
           <li style={{ marginRight: '20px' }}>
-            <Link to="/" style={buttonStyle}>Home</Link>
+            <Link to="/Golden_hub" style={buttonStyle}>Home</Link>
           </li>
           <li>
-            <Link to="/rooms" style={{ ...buttonStyle, marginLeft: '370px' }}>Rooms</Link>
+            <Link to="/Golden_hub/rooms" style={{ ...buttonStyle, marginLeft: '370px' }}>Rooms</Link>
           </li>
         </ul>
       </div>
-      <Link to="/contact" style={{ ...buttonStyle, marginTop: '70px' }}>Contact Us</Link>
+      <Link to="/Golden_hub/contact" style={{ ...buttonStyle, marginTop: '70px' }}>Contact Us</Link>
     </nav>
   );
 };
