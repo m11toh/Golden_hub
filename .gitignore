@@ -1,0 +1,32 @@
+# Ignore node_modules directory
+node_modules/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Production build
+/build
+
+# Dependency directories
+/jspm_packages/
+/bower_components/
+
+# Testing
+/coverage/
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Package lock files
+package-lock.json
+yarn.lock
