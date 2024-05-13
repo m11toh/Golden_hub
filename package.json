@@ -1,7 +1,7 @@
 {
-  "name": "trial",
+  "name": "golden_hub",
   "version": "0.1.0",
-  "homepage": "https://undefinedyobra.github.io/ trial",
+  "homepage": "https://m11toh.github.io/Golden_hub",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",

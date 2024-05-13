@@ -1,0 +1,53 @@
+{
+    "rooms": [
+      {
+        "Room_no": 101,
+        "Room_type": "Villa Suite",
+        "Bed_Base": "Bunk",
+        "image": "https://resources.be.bookingdirect.com/public/images/hotel_images/322771/1690893483_Stanley_Double_A2.png",
+        "Price": 200
+      },
+      {
+        "Room_no": 105,
+        "Room_type": "Deluxe & superior room",
+        "Bed_Base": "King & Queen",
+        "image": "https://resources.be.bookingdirect.com/public/images/hotel_images/322771/1678110639_Sarova_Stanley_-_Room_1.jpg",
+        "Price": 300
+      },
+      {
+        "Room_no": 106,
+        "Room_type": "Executive Suite",
+        "Bed_Base": "King & Queen",
+        "image": "https://resources.be.bookingdirect.com/public/images/hotel_images/322771/1678110672_Sarova_Stanley_-_Room_9.jpg",
+        "Price": 250
+      },
+      {
+        "Room_no": 103,
+        "Room_type": "Pent Suite",
+        "Bed_Base": "Twin",
+        "image": "https://resources.be.bookingdirect.com/public/images/hotel_images/322771/1678110700_Sarova_Stanley_-_Club_room_1.jpg",
+        "Price": 200
+      },
+      {
+        "Room_no": 107,
+        "Room_type": "Suite",
+        "Bed_Base": "King & Queen",
+        "image": "https://storage.kempinski.com/cdn-cgi/image/w=960,f=auto,g=auto,fit=scale-down/ki-cms-prod/images/0/9/5/1/201590-1-eng-GB/ffe8f9cd338c-73657517_4K.jpg",
+        "Price": 500
+      },
+      {
+        "Room_no": 107,
+        "Room_type": "Single Room",
+        "Bed_Base": "Single",
+        "image": "https://storage.kempinski.com/cdn-cgi/image/w=960,f=auto,g=auto,fit=scale-down/ki-cms-prod/images/0/7/4/1/201470-1-eng-GB/f7c7b2ee700a-73657509_4K.jpg",
+        "Price": 50
+      },
+      {
+        "Room_no": 107,
+        "Room_type": "Double Room",
+        "Bed_Base": "Twin",
+        "image": "https://storage.kempinski.com/cdn-cgi/image/w=960,f=auto,g=auto,fit=scale-down/ki-cms-prod/images/0/6/2/1/201260-1-eng-GB/faf9d05a2a91-73657595_4K.jpg",
+        "Price": 100
+      }
+    ]
+  }
