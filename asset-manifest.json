@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Golden_hub/static/css/main.ff02f4b5.css",
-    "main.js": "/Golden_hub/static/js/main.30fbfb5b.js",
-    "static/js/453.d6162015.chunk.js": "/Golden_hub/static/js/453.d6162015.chunk.js",
-    "index.html": "/Golden_hub/index.html",
-    "main.ff02f4b5.css.map": "/Golden_hub/static/css/main.ff02f4b5.css.map",
-    "main.30fbfb5b.js.map": "/Golden_hub/static/js/main.30fbfb5b.js.map",
-    "453.d6162015.chunk.js.map": "/Golden_hub/static/js/453.d6162015.chunk.js.map"
+    "main.css": "/golden_hub/static/css/main.ff02f4b5.css",
+    "main.js": "/golden_hub/static/js/main.47874f32.js",
+    "static/js/453.d6162015.chunk.js": "/golden_hub/static/js/453.d6162015.chunk.js",
+    "index.html": "/golden_hub/index.html",
+    "main.ff02f4b5.css.map": "/golden_hub/static/css/main.ff02f4b5.css.map",
+    "main.47874f32.js.map": "/golden_hub/static/js/main.47874f32.js.map",
+    "453.d6162015.chunk.js.map": "/golden_hub/static/js/453.d6162015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff02f4b5.css",
-    "static/js/main.30fbfb5b.js"
+    "static/js/main.47874f32.js"
   ]
 }
